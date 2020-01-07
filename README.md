@@ -1,4 +1,4 @@
-# [COMCOT-Tools] 
+# [COMCOT-Tools](https://github.com/WuSKai403/COMCOT-Tools)
 This is the repository dealing with the output data of COMCOT.
 
 # [maxInun2xyz.js](https://github.com/WuSKai403/COMCOT-Tools/blob/master/maxInun2xyz.js)
